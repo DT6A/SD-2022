@@ -56,6 +56,9 @@ $dokka.location:ru.hse.ezh.execution.commands////PointingToDeclaration/-ezh/ru.
 $dokka.location:ru.hse.ezh.execution.commands/CatCommand///PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-cat-command/index.html
 $dokka.location:ru.hse.ezh.execution.commands/CatCommand/CatCommand/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-cat-command/-cat-command.html
 $dokka.location:ru.hse.ezh.execution.commands/CatCommand/execute/#java.io.InputStream#java.io.OutputStream#java.io.OutputStream#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-cat-command/execute.html
+$dokka.location:ru.hse.ezh.execution.commands/CdCommand///PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-cd-command/index.html
+$dokka.location:ru.hse.ezh.execution.commands/CdCommand/CdCommand/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-cd-command/-cd-command.html
+$dokka.location:ru.hse.ezh.execution.commands/CdCommand/execute/#java.io.InputStream#java.io.OutputStream#java.io.OutputStream#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-cd-command/execute.html
 $dokka.location:ru.hse.ezh.execution.commands/EchoCommand///PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-echo-command/index.html
 $dokka.location:ru.hse.ezh.execution.commands/EchoCommand/EchoCommand/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-echo-command/-echo-command.html
 $dokka.location:ru.hse.ezh.execution.commands/EchoCommand/execute/#java.io.InputStream#java.io.OutputStream#java.io.OutputStream#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-echo-command/execute.html
@@ -65,6 +68,9 @@ $dokka.location:ru.hse.ezh.execution.commands/ExitCommand/execute/#java.io.Input
 $dokka.location:ru.hse.ezh.execution.commands/ExternalCommand///PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-external-command/index.html
 $dokka.location:ru.hse.ezh.execution.commands/ExternalCommand/ExternalCommand/#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-external-command/-external-command.html
 $dokka.location:ru.hse.ezh.execution.commands/ExternalCommand/execute/#java.io.InputStream#java.io.OutputStream#java.io.OutputStream#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-external-command/execute.html
+$dokka.location:ru.hse.ezh.execution.commands/LsCommand///PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-ls-command/index.html
+$dokka.location:ru.hse.ezh.execution.commands/LsCommand/LsCommand/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-ls-command/-ls-command.html
+$dokka.location:ru.hse.ezh.execution.commands/LsCommand/execute/#java.io.InputStream#java.io.OutputStream#java.io.OutputStream#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-ls-command/execute.html
 $dokka.location:ru.hse.ezh.execution.commands/PwdCommand///PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-pwd-command/index.html
 $dokka.location:ru.hse.ezh.execution.commands/PwdCommand/PwdCommand/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-pwd-command/-pwd-command.html
 $dokka.location:ru.hse.ezh.execution.commands/PwdCommand/execute/#java.io.InputStream#java.io.OutputStream#java.io.OutputStream#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh.execution.commands/-pwd-command/execute.html
