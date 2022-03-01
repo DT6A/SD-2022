@@ -131,9 +131,11 @@ $dokka.location:ru.hse.ezh/Environment/Environment/#/PointingToDeclaration/-ezh
 $dokka.location:ru.hse.ezh/Environment/getAllVariables/#/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/get-all-variables.html
 $dokka.location:ru.hse.ezh/Environment/getExitStatus/#/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/get-exit-status.html
 $dokka.location:ru.hse.ezh/Environment/getVariable/#kotlin.String/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/get-variable.html
+$dokka.location:ru.hse.ezh/Environment/getWorkingDirectory/#/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/get-working-directory.html
 $dokka.location:ru.hse.ezh/Environment/putVariable/#kotlin.String#kotlin.String/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/put-variable.html
 $dokka.location:ru.hse.ezh/Environment/replaceWith/#ru.hse.ezh.Environment/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/replace-with.html
 $dokka.location:ru.hse.ezh/Environment/setExitStatus/#ru.hse.ezh.Environment.ExitStatus/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/set-exit-status.html
+$dokka.location:ru.hse.ezh/Environment/setWorkingDirectory/#kotlin.String/PointingToDeclaration/-ezh/ru.hse.ezh/-environment/set-working-directory.html
 $dokka.location:ru.hse.ezh/Ezh///PointingToDeclaration/-ezh/ru.hse.ezh/-ezh/index.html
 $dokka.location:ru.hse.ezh/Ezh/Ezh/#ru.hse.ezh.views.View/PointingToDeclaration/-ezh/ru.hse.ezh/-ezh/-ezh.html
 $dokka.location:ru.hse.ezh/Ezh/main/#/PointingToDeclaration/-ezh/ru.hse.ezh/-ezh/main.html
